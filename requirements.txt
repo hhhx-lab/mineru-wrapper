@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+httpx
+redis
+celery
+pydantic-settings
+orjson
